@@ -24,3 +24,5 @@ vscode:
     - bungcip.better-toml
     - vadimcn.vscode-lldb
     - paritytech.vscode-substrate
+    - usernamehw.errorlens
+    - humao.rest-client
